@@ -69,6 +69,7 @@ sections:
         url: /
         style: primary
     posts:
+      - content/pages/blog/postlayout-iej5m7wbr.md
       - content/pages/blog/post-three.md
       - content/pages/blog/postlayout-2ghzov158.md
       - content/pages/blog/post-two.md
